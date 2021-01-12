@@ -5,7 +5,7 @@ var jerry, jerryewalking, jerrystanding, jerryresting;
 function preload() {
     
   tomresting = loadAnimation("tomOne.png");
-  tomwalking = loadAnimation("tomTwo.png","tomthree.png");
+  tomwalking = loadAnimation("tomTwo.png","tomThree.png");
   tomstanding = loadAnimation("tomFour.png");
   gardenImg = loadImage("garden.png");
 
